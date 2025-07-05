@@ -1,2 +1,13 @@
-# Pricing-Table-UI-Design
-A modern and responsive pricing table UI built using HTML and CSS, designed to showcase different subscription plans with clarity and elegance. It features animated card transitions, interactive hover effects, and a visually emphasized “Pro” plan to guide user attention. Ideal for landing pages, SaaS platforms, or product comparison sections.
+# Pricing Table UI Design 💸
+
+A modern and responsive pricing table built with HTML and CSS. This project showcases three subscription plans—Basic, Pro, and Enterprise—with animated card transitions, hover effects, and a visually highlighted "Pro" plan to guide user attention.
+
+## 🔍 Features
+
+- Responsive layout using Flexbox
+- Smooth entrance animations on load
+- Hover effects with shadow pulse and button bounce
+- Clean, semantic HTML structure
+- Easy to customize and extend
+
+## 📸 Preview
